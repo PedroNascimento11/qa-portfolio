@@ -17,3 +17,4 @@ npx playwright test
 ## Why this test matters
 It covers a key business risk in e-commerce applications:
 incorrect pricing / product mismatch in checkout.
+
